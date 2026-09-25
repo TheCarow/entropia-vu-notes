@@ -1,0 +1,4271 @@
+{
+ "tiers": {
+  "1": "official",
+  "2": "staff",
+  "3": "newsbot",
+  "4": "contemporary",
+  "5": "later"
+ },
+ "entries": {
+  "10.0": {
+   "date": "2009-08-19",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0 notice",
+     "url": "https://web.archive.org/web/20090817210205/http://cl.entropiauniverse.com:80/news/pages/2009/08/14/9313/index.xml",
+     "date": "2009-08-17"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU10.0 FAQ",
+     "url": "https://web.archive.org/web/20090821081058/http://cl.entropiauniverse.com:80/news/pages/2009/08/17/4196/index.xml",
+     "date": "2009-08-17"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Known Issues Version Update 10.0",
+     "url": "https://web.archive.org/web/20090821080238/http://cl.entropiauniverse.com:80/support-faq/pages/2009/08/18/4137/index.xml",
+     "date": "2009-08-18"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Content list clarification VU10.0",
+     "url": "https://web.archive.org/web/20090826093307/http://cl.entropiauniverse.com:80/news/pages/2009/08/20/8665/index.xml",
+     "date": "2009-08-20"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Known Issues Version Update 10.0",
+     "url": "https://web.archive.org/web/20091026091134/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/24/3470/index.xml",
+     "date": "2009-08-24"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0 announcement (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20090814110352/http://cl.entropiauniverse.com:80/news/pages/2009/08/10/9594/index.xml",
+     "date": "2009-08-14"
+    },
+    {
+     "tier": 4,
+     "label": "Tweakers — Version Update 10.0 Announcement (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20090821180637/http://tweakers.net:80/meuktracker/21212/entropia-universe-100.html",
+     "date": "2009-08-18"
+    }
+   ]
+  },
+  "10.0.10": {
+   "date": "2009-09-11",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.0.10 content list",
+     "url": "https://web.archive.org/web/20090915173615/http://www.planetcalypso.com:80/news/pages/2009/09/11/3634/index.xml",
+     "date": "2009-09-15"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.10 notice",
+     "url": "https://web.archive.org/web/20091026091210/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/11/0494/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.10 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-10/138617",
+     "date": "2009-09-11"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.10 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-10-content-list/139114",
+     "date": "2009-09-11"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.0.10 content list",
+     "url": "https://web.archive.org/web/20090915173615/http://www.planetcalypso.com:80/news/pages/2009/09/11/3634/index.xml"
+    }
+   ]
+  },
+  "10.0.11": {
+   "date": "2009-09-16",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.0.11 content list",
+     "url": "https://web.archive.org/web/20090922193421/http://www.planetcalypso.com:80/news/pages/2009/09/16/5667/index.xml",
+     "date": "2009-09-22"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.11 notice",
+     "url": "https://web.archive.org/web/20091026091215/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/15/4463/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.11 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-11/139436",
+     "date": "2009-09-16"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.11 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-11-content-list/138954",
+     "date": "2009-09-16"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.0.11 content list",
+     "url": "https://web.archive.org/web/20090922193421/http://www.planetcalypso.com:80/news/pages/2009/09/16/5667/index.xml"
+    }
+   ]
+  },
+  "10.0.12": {
+   "date": "2009-09-17",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.0.12 content list",
+     "url": "https://web.archive.org/web/20090922193432/http://www.planetcalypso.com:80/news/pages/2009/09/17/5070/index.xml",
+     "date": "2009-09-22"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.12 - info updated",
+     "url": "https://web.archive.org/web/20091026091221/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/17/3611/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.12 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-12/138901",
+     "date": "2009-09-17"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.12 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-12-content-list/139266",
+     "date": "2009-09-17"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.0.12 content list",
+     "url": "https://web.archive.org/web/20090922193432/http://www.planetcalypso.com:80/news/pages/2009/09/17/5070/index.xml"
+    }
+   ]
+  },
+  "10.0.13": {
+   "date": "2009-09-21",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.0.13 content list",
+     "url": "https://web.archive.org/web/20090924191422/http://www.planetcalypso.com:80/news/pages/2009/09/21/7813/index.xml",
+     "date": "2009-09-24"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.13 notice",
+     "url": "https://web.archive.org/web/20091026075755/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/21/2649/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.13 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-13/141072",
+     "date": "2009-09-21"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.13 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-13-content-list/139670",
+     "date": "2009-09-21"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.0.13 content list",
+     "url": "https://web.archive.org/web/20090924191422/http://www.planetcalypso.com:80/news/pages/2009/09/21/7813/index.xml"
+    }
+   ]
+  },
+  "10.0.14": {
+   "date": "2009-09-24",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.14 notice",
+     "url": "https://web.archive.org/web/20091026091226/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/21/0883/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.14 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-14/140026",
+     "date": "2009-09-24"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.14 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-14-content-list/139858",
+     "date": "2009-09-24"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 10.0.14 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-14-content-list/139858"
+    }
+   ]
+  },
+  "10.0.4": {
+   "date": "2009-08-26",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.0.4 content list",
+     "url": "https://web.archive.org/web/20090908160239/http://www.planetcalypso.com:80/news/pages/2009/08/26/2645/index.xml",
+     "date": "2009-09-08"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.4 notice",
+     "url": "https://web.archive.org/web/20091026091139/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/26/2944/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Mini-Update 10.0.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-mini-update-10-0-4/137087",
+     "date": "2009-08-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.4 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-4-content-list/143436",
+     "date": "2009-08-26"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.0.4 content list",
+     "url": "https://web.archive.org/web/20090908160239/http://www.planetcalypso.com:80/news/pages/2009/08/26/2645/index.xml"
+    }
+   ]
+  },
+  "10.0.5": {
+   "date": "2009-08-27",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.5 notice",
+     "url": "https://web.archive.org/web/20091026091144/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/27/5900/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — A new version of the Entropia Universe client software has been released.",
+     "url": "https://forum.entropiauniverse.com/t/136967",
+     "date": "2009-08-27"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 10.0.5 notice",
+     "url": "https://web.archive.org/web/20091026091144/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/27/5900/index.xml"
+    }
+   ]
+  },
+  "10.0.6": {
+   "date": "2009-08-28",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Steep Hill Mining Claims Lost Before 10.0.6",
+     "url": "https://web.archive.org/web/20091026091149/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/28/3019/index.xml",
+     "date": "2009-08-28"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.6 content",
+     "url": "https://web.archive.org/web/20091026075729/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/28/8789/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.6 notice",
+     "url": "https://web.archive.org/web/20091026091154/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/28/6021/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Actions Sets and Keyboard map improved.",
+     "url": "https://forum.entropiauniverse.com/t/143743",
+     "date": "2009-08-28"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 10.0.6 content",
+     "url": "https://web.archive.org/web/20091026075729/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/28/8789/index.xml"
+    }
+   ]
+  },
+  "10.0.7": {
+   "date": "2009-09-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.7 content list",
+     "url": "https://web.archive.org/web/20090905075342/http://cl.entropiauniverse.com:80/news/pages/2009/09/01/9260/index.xml",
+     "date": "2009-09-05"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.7 notice",
+     "url": "https://web.archive.org/web/20091026075739/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/01/2133/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.7 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-7/137567",
+     "date": "2009-09-01"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.7 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-7-content-list/138105",
+     "date": "2009-09-01"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 10.0.7 content list",
+     "url": "https://web.archive.org/web/20090905075342/http://cl.entropiauniverse.com:80/news/pages/2009/09/01/9260/index.xml"
+    }
+   ]
+  },
+  "10.0.8": {
+   "date": "2009-09-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.8 content list",
+     "url": "https://web.archive.org/web/20090908060807/http://cl.entropiauniverse.com:80/news/pages/2009/09/04/4967/index.xml",
+     "date": "2009-09-08"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.0.8 content list",
+     "url": "https://web.archive.org/web/20090908160244/http://www.planetcalypso.com:80/news/pages/2009/09/04/3668/index.xml",
+     "date": "2009-09-08"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.8 - info updated",
+     "url": "https://web.archive.org/web/20091026091205/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/04/6387/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.8 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-8/137403",
+     "date": "2009-09-04"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.8 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-8-content-list/137517",
+     "date": "2009-09-04"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 10.0.8 content list",
+     "url": "https://web.archive.org/web/20090908060807/http://cl.entropiauniverse.com:80/news/pages/2009/09/04/4967/index.xml"
+    }
+   ]
+  },
+  "10.0.9": {
+   "date": "2009-09-09",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.0.9 content list",
+     "url": "https://web.archive.org/web/20090915222519/http://www.planetcalypso.com:80/news/pages/2009/09/09/6573/index.xml",
+     "date": "2009-09-15"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.0.9 - info updated",
+     "url": "https://web.archive.org/web/20091026075745/http://account.entropiauniverse.com:80/support-faq/pages/2009/09/09/7372/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.9 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-9/138487",
+     "date": "2009-09-09"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.0.9 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-0-9-content-list/138898",
+     "date": "2009-09-09"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.0.9 content list",
+     "url": "https://web.archive.org/web/20090915222519/http://www.planetcalypso.com:80/news/pages/2009/09/09/6573/index.xml"
+    }
+   ]
+  },
+  "10.0.X": {
+   "date": "2009-08-20",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026075709/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/20/3540/index.xml",
+     "date": "2009-08-20"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026075724/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/25/0141/index.xml",
+     "date": "2009-08-25"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026091200/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/28/7720/index.xml",
+     "date": "2009-08-28"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — In Options on the Entropia Universe Login window you now have the possibility",
+     "url": "https://forum.entropiauniverse.com/t/136680",
+     "date": "2009-08-20"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — The mini-update released today contained fixes that increases stability",
+     "url": "https://forum.entropiauniverse.com/t/137803",
+     "date": "2009-08-25"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026075709/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/20/3540/index.xml"
+    },
+    {
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026075724/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/25/0141/index.xml"
+    },
+    {
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026091200/http://account.entropiauniverse.com:80/support-faq/pages/2009/08/28/7720/index.xml"
+    }
+   ]
+  },
+  "10.1": {
+   "date": "2009-10-06",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.1 content list",
+     "url": "https://web.archive.org/web/20091008230620/http://www.planetcalypso.com:80/news/pages/2009/10/06/7665/index.xml",
+     "date": "2009-10-08"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.1 notice",
+     "url": "https://web.archive.org/web/20091026075759/http://account.entropiauniverse.com:80/support-faq/pages/2009/10/06/9071/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — VU 10.1 Content list (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/vu-10-1-content-list/140628",
+     "date": "2009-10-06"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-1/141235",
+     "date": "2009-10-06"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — vu 10.1 content list (Draggger)",
+     "url": "https://forum.entropiauniverse.com/t/vu-10-1-content-list/140740",
+     "date": "2009-10-06"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.1 content list",
+     "url": "https://web.archive.org/web/20091008230620/http://www.planetcalypso.com:80/news/pages/2009/10/06/7665/index.xml"
+    }
+   ]
+  },
+  "10.1.1": {
+   "date": "2009-10-08",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.1.1 content list",
+     "url": "https://web.archive.org/web/20091012034202/http://www.planetcalypso.com:80/news/pages/2009/10/08/4032/index.xml",
+     "date": "2009-10-12"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.1.1 notice",
+     "url": "https://web.archive.org/web/20091026075809/http://account.entropiauniverse.com:80/support-faq/pages/2009/10/08/5095/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.1.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-1-1/140831",
+     "date": "2009-10-08"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.1.1 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-1-1-content-list/141802",
+     "date": "2009-10-08"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.1.1 content list",
+     "url": "https://web.archive.org/web/20091012034202/http://www.planetcalypso.com:80/news/pages/2009/10/08/4032/index.xml"
+    }
+   ]
+  },
+  "10.1.2": {
+   "date": "2009-10-22",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.1.2 content list",
+     "url": "https://web.archive.org/web/20091024225409/http://www.planetcalypso.com:80/news/pages/2009/10/22/2387/index.xml",
+     "date": "2009-10-24"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.1.2 notice",
+     "url": "https://web.archive.org/web/20091025065937/http://account.entropiauniverse.com:80/support-faq/pages/2009/10/22/1858/index.xml",
+     "date": "2009-10-25"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.1.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-1-2/148074",
+     "date": "2009-10-22"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.1.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-1-2-content-list/154435",
+     "date": "2009-10-22"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.1.2 content list",
+     "url": "https://web.archive.org/web/20091024225409/http://www.planetcalypso.com:80/news/pages/2009/10/22/2387/index.xml"
+    }
+   ]
+  },
+  "10.2": {
+   "date": "2009-10-29",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.2 notice",
+     "url": "https://web.archive.org/web/20091101081159/http://account.entropiauniverse.com:80/support-faq/pages/2009/10/28/3036/index.xml",
+     "date": "2009-11-01"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.2 content list",
+     "url": "https://web.archive.org/web/20091101034659/http://www.planetcalypso.com:80/news/pages/2009/10/29/6246/index.xml",
+     "date": "2009-11-01"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-2/142494",
+     "date": "2009-10-29"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-2-content-list/143185",
+     "date": "2009-10-29"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.2 content list",
+     "url": "https://web.archive.org/web/20091101034659/http://www.planetcalypso.com:80/news/pages/2009/10/29/6246/index.xml"
+    }
+   ]
+  },
+  "10.2.1": {
+   "date": "2009-11-06",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.2.1 content list",
+     "url": "https://web.archive.org/web/20091109032352/http://www.planetcalypso.com:80/news/pages/2009/11/06/1277/index.xml",
+     "date": "2009-11-09"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.2.1 notice",
+     "url": "https://web.archive.org/web/20091111051232/http://account.entropiauniverse.com:80/support-faq/pages/2009/11/06/8761/index.xml",
+     "date": "2009-11-11"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.2.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-2-1/143882",
+     "date": "2009-11-06"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.2.1 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-2-1-content-list/143405",
+     "date": "2009-11-06"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.2.1 content list",
+     "url": "https://web.archive.org/web/20091109032352/http://www.planetcalypso.com:80/news/pages/2009/11/06/1277/index.xml"
+    }
+   ]
+  },
+  "10.2.2": {
+   "date": "2009-11-09",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.2.2 content list",
+     "url": "https://web.archive.org/web/20091113152836/http://www.planetcalypso.com:80/news/pages/2009/11/09/9818/index.xml",
+     "date": "2009-11-13"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.2.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-2-2-content-list/142960",
+     "date": "2009-11-09"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.2.2 content list",
+     "url": "https://web.archive.org/web/20091113152836/http://www.planetcalypso.com:80/news/pages/2009/11/09/9818/index.xml"
+    }
+   ]
+  },
+  "10.3": {
+   "date": "2009-11-18",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.3 notice",
+     "url": "https://web.archive.org/web/20091121081505/http://account.entropiauniverse.com:80/support-faq/pages/2009/11/18/8584/index.xml",
+     "date": "2009-11-21"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.3 content list",
+     "url": "https://web.archive.org/web/20091121125247/http://www.planetcalypso.com:80/news/pages/2009/11/18/7876/index.xml",
+     "date": "2009-11-21"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.3.0 notice",
+     "url": "https://web.archive.org/web/20091123234952/http://www.planetcalypso.com:80/news/pages/2009/11/19/1732/index.xml",
+     "date": "2009-11-23"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-3/145314",
+     "date": "2009-11-18"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.3 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-3-content-list/145227",
+     "date": "2009-11-18"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.3.0.36176 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-3-0-36176-content-list/143626",
+     "date": "2009-11-19"
+    }
+   ]
+  },
+  "10.3.1": {
+   "date": "2009-11-20",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.3.1 notice",
+     "url": "https://web.archive.org/web/20091123160858/http://account.entropiauniverse.com:80/support-faq/pages/2009/11/20/4405/index.xml",
+     "date": "2009-11-23"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.3.1 content list",
+     "url": "https://web.archive.org/web/20091124205942/http://www.planetcalypso.com:80/news/pages/2009/11/20/9425/index.xml",
+     "date": "2009-11-24"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.3.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-3-1/144484",
+     "date": "2009-11-20"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.3.1 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-3-1-content-list/144876",
+     "date": "2009-11-20"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.3.1 content list",
+     "url": "https://web.archive.org/web/20091124205942/http://www.planetcalypso.com:80/news/pages/2009/11/20/9425/index.xml"
+    }
+   ]
+  },
+  "10.4": {
+   "date": "2009-11-25",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.4 content list",
+     "url": "https://web.archive.org/web/20091128150601/http://www.planetcalypso.com:80/news/pages/2009/11/25/4124/index.xml",
+     "date": "2009-11-28"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-4/149143",
+     "date": "2009-11-25"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.4 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-4-content-list/146536",
+     "date": "2009-11-25"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.4 content list",
+     "url": "https://web.archive.org/web/20091128150601/http://www.planetcalypso.com:80/news/pages/2009/11/25/4124/index.xml"
+    }
+   ]
+  },
+  "10.4.1": {
+   "date": "2009-11-27",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.4.1 notice",
+     "url": "https://web.archive.org/web/20091203165419/http://account.entropiauniverse.com:80/support-faq/pages/2009/11/27/4046/index.xml",
+     "date": "2009-12-03"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.4.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-4-1/144919",
+     "date": "2009-11-27"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 10.4.1 notice",
+     "url": "https://web.archive.org/web/20091203165419/http://account.entropiauniverse.com:80/support-faq/pages/2009/11/27/4046/index.xml"
+    }
+   ]
+  },
+  "10.4.2": {
+   "date": "2009-12-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.4.2 content list",
+     "url": "https://web.archive.org/web/20091205175913/http://www.planetcalypso.com:80/news/pages/2009/12/01/6364/index.xml",
+     "date": "2009-12-05"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.4.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-4-2/145026",
+     "date": "2009-12-01"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.4.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-4-2-content-list/146671",
+     "date": "2009-12-01"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.4.2 content list",
+     "url": "https://web.archive.org/web/20091205175913/http://www.planetcalypso.com:80/news/pages/2009/12/01/6364/index.xml"
+    }
+   ]
+  },
+  "10.5": {
+   "date": "2009-12-10",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.5 content list",
+     "url": "https://web.archive.org/web/20091213220355/http://www.planetcalypso.com:80/news/pages/2009/12/10/8067/index.xml",
+     "date": "2009-12-13"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.5 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-5/145537",
+     "date": "2009-12-10"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.5 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-5-content-list/147519",
+     "date": "2009-12-10"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.5 content list",
+     "url": "https://web.archive.org/web/20091213220355/http://www.planetcalypso.com:80/news/pages/2009/12/10/8067/index.xml"
+    }
+   ]
+  },
+  "10.5.1": {
+   "date": "2009-12-10",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.5.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-5-1/147441",
+     "date": "2009-12-10"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 10.5.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-5-1/147441"
+    }
+   ]
+  },
+  "10.5.2": {
+   "date": "2009-12-14",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.5.2 content list",
+     "url": "https://web.archive.org/web/20110103174655/http://www.planetcalypso.com/news/pages/2009/12/14/9482/index.xml",
+     "date": "2011-01-03"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.5.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-5-2/145135",
+     "date": "2009-12-14"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.5.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-5-2-content-list/145246",
+     "date": "2009-12-14"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.5.2 content list",
+     "url": "https://web.archive.org/web/20110103174655/http://www.planetcalypso.com/news/pages/2009/12/14/9482/index.xml"
+    }
+   ]
+  },
+  "10.6": {
+   "date": "2009-12-17",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.6 - info updated",
+     "url": "https://web.archive.org/web/20091220120647/http://account.entropiauniverse.com:80/support-faq/pages/2009/12/17/6199/index.xml",
+     "date": "2009-12-20"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.6 content list",
+     "url": "https://web.archive.org/web/20100708044034/http://www.planetcalypso.com:80/news/pages/2009/12/17/7030/index.xml",
+     "date": "2010-07-08"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6/144899",
+     "date": "2009-12-17"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-content-list/145065",
+     "date": "2009-12-17"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.6 content list",
+     "url": "https://web.archive.org/web/20100708044034/http://www.planetcalypso.com:80/news/pages/2009/12/17/7030/index.xml"
+    }
+   ]
+  },
+  "10.6.1": {
+   "date": "2009-12-18",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.6.1 content list",
+     "url": "https://web.archive.org/web/20100413011449/http://www.planetcalypso.com:80/news/pages/2009/12/18/1043/index.xml",
+     "date": "2010-04-13"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-1/147789",
+     "date": "2009-12-18"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.1 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-1-content-list/147852",
+     "date": "2009-12-18"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.6.1 content list",
+     "url": "https://web.archive.org/web/20100413011449/http://www.planetcalypso.com:80/news/pages/2009/12/18/1043/index.xml"
+    }
+   ]
+  },
+  "10.6.2": {
+   "date": "2009-12-21",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.6.2 content list",
+     "url": "https://web.archive.org/web/20100128141653/http://www.planetcalypso.com:80/news/pages/2009/12/21/3978/index.xml",
+     "date": "2010-01-28"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-2/146032",
+     "date": "2009-12-21"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-2-content-list/145862",
+     "date": "2009-12-21"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.6.2 content list",
+     "url": "https://web.archive.org/web/20100128141653/http://www.planetcalypso.com:80/news/pages/2009/12/21/3978/index.xml"
+    }
+   ]
+  },
+  "10.6.3": {
+   "date": "2009-12-22",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.6.3 - info updated",
+     "url": "https://web.archive.org/web/20091227013532/http://account.entropiauniverse.com:80/support-faq/pages/2009/12/22/8012/index.xml",
+     "date": "2009-12-27"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.6.3 content list",
+     "url": "https://web.archive.org/web/20110103171646/http://www.planetcalypso.com/news/pages/2009/12/22/7278/index.xml",
+     "date": "2011-01-03"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-3/148272",
+     "date": "2009-12-22"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.3 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-3-content-list/145991",
+     "date": "2009-12-22"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.6.3 content list",
+     "url": "https://web.archive.org/web/20110103171646/http://www.planetcalypso.com/news/pages/2009/12/22/7278/index.xml"
+    }
+   ]
+  },
+  "10.6.5": {
+   "date": "2010-01-14",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.6.5 notice",
+     "url": "https://web.archive.org/web/20100118200543/http://account.entropiauniverse.com:80/support-faq/pages/2010/01/14/1883/index.xml",
+     "date": "2010-01-18"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.6.5 content list",
+     "url": "https://web.archive.org/web/20100118075131/http://www.planetcalypso.com:80/news/pages/2010/01/14/5591/index.xml",
+     "date": "2010-01-18"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.5 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-5/150360",
+     "date": "2010-01-14"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.5 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-5-content-list/147833",
+     "date": "2010-01-14"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.6.5 content list",
+     "url": "https://web.archive.org/web/20100118075131/http://www.planetcalypso.com:80/news/pages/2010/01/14/5591/index.xml"
+    }
+   ]
+  },
+  "10.6.6": {
+   "date": "2010-01-19",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.6.6 content list",
+     "url": "https://web.archive.org/web/20100122131333/http://www.planetcalypso.com:80/news/pages/2010/01/19/5040/index.xml",
+     "date": "2010-01-22"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.6.6 notice",
+     "url": "https://web.archive.org/web/20100124224350/http://account.entropiauniverse.com:80/support-faq/pages/2010/01/19/1913/index.xml",
+     "date": "2010-01-24"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.6 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-6/149767",
+     "date": "2010-01-19"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.6.6 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-6-6-content-list/162014",
+     "date": "2010-01-19"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.6.6 content list",
+     "url": "https://web.archive.org/web/20100122131333/http://www.planetcalypso.com:80/news/pages/2010/01/19/5040/index.xml"
+    }
+   ]
+  },
+  "10.7": {
+   "date": "2010-01-27",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.7 content list",
+     "url": "https://web.archive.org/web/20100130114059/http://www.planetcalypso.com:80/news/pages/2010/01/27/8851/index.xml",
+     "date": "2010-01-30"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.7 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-7/150412",
+     "date": "2010-01-27"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.7 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-7-content-list/152457",
+     "date": "2010-01-27"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.7 content list",
+     "url": "https://web.archive.org/web/20100130114059/http://www.planetcalypso.com:80/news/pages/2010/01/27/8851/index.xml"
+    }
+   ]
+  },
+  "10.7.1": {
+   "date": "2010-01-28",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 10.7.1 notice",
+     "url": "https://web.archive.org/web/20100131104231/http://account.entropiauniverse.com:80/support-faq/pages/2010/01/28/5447/index.xml",
+     "date": "2010-01-31"
+    },
+    {
+     "tier": 1,
+     "label": "planetcalypso.com — VU 10.7.1 content list",
+     "url": "https://web.archive.org/web/20100201013557/http://www.planetcalypso.com:80/news/pages/2010/01/28/8948/index.xml",
+     "date": "2010-02-01"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.7.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-7-1/149878",
+     "date": "2010-01-28"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.7.1 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-7-1-content-list/149157",
+     "date": "2010-01-28"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "planetcalypso.com — VU 10.7.1 content list",
+     "url": "https://web.archive.org/web/20100201013557/http://www.planetcalypso.com:80/news/pages/2010/01/28/8948/index.xml"
+    }
+   ]
+  },
+  "10.7.2": {
+   "date": "2010-02-02",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Patch 10.7.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/patch-10-7-2/154574",
+     "date": "2010-02-02"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 10.7.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-7-2-content-list/149734",
+     "date": "2010-02-02"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 10.7.2 Content List (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-10-7-2-content-list/149734"
+    }
+   ]
+  },
+  "10.8": {
+   "date": "2010-02-18",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe 10.8.0 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-0-release-notes/149858",
+     "date": "2010-02-18"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — 10.8.0 - 10.8.1 Torrent (Alex_Mart)",
+     "url": "https://forum.entropiauniverse.com/t/10-8-0-10-8-1-torrent/154417",
+     "date": "2010-02-24"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe 10.8.0 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-0-release-notes/149858"
+    }
+   ]
+  },
+  "10.8.1": {
+   "date": "2010-02-25",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe 10.8.1 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-1-release-notes/155002",
+     "date": "2010-02-25"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Entropia Universe 10.8.1 Release Notes (Jakkin)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-1-release-notes/151611",
+     "date": "2010-02-24"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Where is VU 10.8.1 Content List? (CyberPunk)",
+     "url": "https://forum.entropiauniverse.com/t/where-is-vu-10-8-1-content-list/154452",
+     "date": "2010-02-25"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe 10.8.1 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-1-release-notes/155002"
+    }
+   ]
+  },
+  "10.8.2": {
+   "date": "2010-03-08",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe 10.8.2 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-2-release-notes/151454",
+     "date": "2010-03-08"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe 10.8.2 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-2-release-notes/151454"
+    }
+   ]
+  },
+  "10.8.3": {
+   "date": "2010-03-11",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe 10.8.3 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-3-release-notes/151706",
+     "date": "2010-03-11"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe 10.8.3 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-8-3-release-notes/151706"
+    }
+   ]
+  },
+  "10.8.4": {
+   "date": "2010-03-11",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — FIXED ISSUE",
+     "url": "https://forum.entropiauniverse.com/t/152752",
+     "date": "2010-03-11"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — FIXED ISSUE",
+     "url": "https://forum.entropiauniverse.com/t/152752"
+    }
+   ]
+  },
+  "10.9": {
+   "date": "2010-03-17",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe 10.9 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-9-release-notes/154315",
+     "date": "2010-03-17"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe 10.9 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-9-release-notes/154315"
+    }
+   ]
+  },
+  "10.9.1": {
+   "date": "2010-03-17",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe 10.9.1 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-9-1-release-notes/153149",
+     "date": "2010-03-17"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe 10.9.1 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-9-1-release-notes/153149"
+    }
+   ]
+  },
+  "10.9.2": {
+   "date": "2010-03-24",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe 10.9.2 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-9-2-release-notes/155172",
+     "date": "2010-03-24"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe 10.9.2 Release Notes (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-10-9-2-release-notes/155172"
+    }
+   ]
+  },
+  "3.4": {
+   "date": "2002-05-20",
+   "sources": []
+  },
+  "3.6": {
+   "date": "",
+   "sources": []
+  },
+  "3.7": {
+   "date": "",
+   "sources": []
+  },
+  "3.9": {
+   "date": "2002-10-25",
+   "sources": [
+    {
+     "tier": 5,
+     "label": "EntropiaPlanets — We released a patch in late October, version 3.9.",
+     "url": "https://web.archive.org/web/20240530061110/http://www.entropiaplanets.com/wiki/3.9",
+     "date": "2002-10-25"
+    }
+   ],
+   "note": "Listed as 3.X in earlier versions of this compilation. MindArk's own description calls the late-October 2002 stability patch version 3.9.",
+   "transcribed_from": [
+    {
+     "label": "EntropiaPlanets — We released a patch in late October, version 3.9.",
+     "url": "https://web.archive.org/web/20240530061110/http://www.entropiaplanets.com/wiki/3.9"
+    }
+   ]
+  },
+  "4.0": {
+   "date": "2002-11-29",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Teaser from the new patch!",
+     "url": "https://web.archive.org/web/20021206160732/http://www.project-entropia.com:80/news/main.asp?newsSubjectGo=update",
+     "date": "2002-11-25"
+    },
+    {
+     "tier": 4,
+     "label": "GamersHell — PROJECT ENTROPIA ENHANCED WITH V4.0 PATCH",
+     "url": "https://web.archive.org/web/20040809220835/http://www.gamershell.com:80/news/4946.html",
+     "date": "2002-12-09"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 4.0 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041027000524/http://www.perc.info:80/index.asp?page=77"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 4.0 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-4-0-listing/146",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "4.1": {
+   "date": "2002-12-20",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia Version 4.1 Update Information - 2003-01-09",
+     "url": "https://web.archive.org/web/20030214131729/http://www.project-entropia.com:80/news/main.asp?newsSubjectGo=update",
+     "date": "2003-01-09"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 4.1 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026115122/http://www.perc.info:80/index.asp?page=63"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 4.1 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-4-1-listing/145",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "4.2": {
+   "date": "2003-01-30",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "RPGDot — Project Entropia Version Update Golden",
+     "url": "https://web.archive.org/web/20031118012830/http://www.rpgdot.com:80/index.php?hsaction=10077&newsid=14672",
+     "date": "2003-02-13"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 4.2 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026134810/http://www.perc.info:80/index.asp?page=64"
+    },
+    {
+     "tier": 4,
+     "label": "Stratics — Project Entropia developments (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20030314052219/http://www.stratics.com:80/content/portals/entropia/",
+     "date": "2003-01-26"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — The Golden VU 4.2 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/the-golden-vu-4-2-listing/144",
+     "date": "2005-01-29"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — Version Updates archive",
+     "url": "https://www.entropiamuseum.com/vu/"
+    }
+   ]
+  },
+  "4.3": {
+   "date": "2003-03-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia VU 4.3 Live!",
+     "url": "https://web.archive.org/web/20030405031013/http://www.project-entropia.com:80/news/main.asp?newsSubjectGo=update",
+     "date": "2003-03-12"
+    },
+    {
+     "tier": 4,
+     "label": "EntropiaPlanets — The latest Version Update has been implemented into Project Entropia.",
+     "url": "https://web.archive.org/web/20250516070406/http://entropiaplanets.com/threads/project-entropia-vu-4-3-live.23100/",
+     "date": "2003-03-12"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 4.3 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026134817/http://www.perc.info:80/index.asp?page=65"
+    },
+    {
+     "tier": 4,
+     "label": "Stratics — It's coming!! The Project Entropia VU (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20030314052219/http://www.stratics.com:80/content/portals/entropia/",
+     "date": "2003-03-05"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 4.3 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-4-3-listing/143",
+     "date": "2005-01-29"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — Version Updates archive",
+     "url": "https://www.entropiamuseum.com/vu/"
+    }
+   ]
+  },
+  "4.4": {
+   "date": "2003-04-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia Version Update 4.4 - 2003-04-03",
+     "url": "https://web.archive.org/web/20030407071347/http://www.project-entropia.com:80/client/main.asp?lang=2",
+     "date": "2003-04-03"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 4.4 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026163508/http://www.perc.info:80/index.asp?page=66"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 4.4 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-4-4-listing/142",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "4.5": {
+   "date": "2003-05",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "perc.info — VU 4.5 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026163540/http://www.perc.info:80/index.asp?page=67"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 4.5 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-4-5-listing/141",
+     "date": "2005-01-29"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — Version Updates archive",
+     "url": "https://www.entropiamuseum.com/vu/"
+    }
+   ]
+  },
+  "5.0": {
+   "date": "",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.0 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026175920/http://www.perc.info:80/index.asp?page=68"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.0 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-0-listing/140",
+     "date": "2005-01-29"
+    }
+   ],
+   "note": "Only MindArk's pre-release announcement of 18 May 2003 survives for VU 5.0; no list of its changes has been found.",
+   "transcribed_from": [
+    {
+     "label": "perc.info — VU 5.0 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026175920/http://www.perc.info:80/index.asp?page=68"
+    }
+   ]
+  },
+  "5.1": {
+   "date": "2003-06-13",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "computergames.ro — client v5.1 download page, notes in its description",
+     "url": "https://web.archive.org/web/20040119064353/http://www.computergames.ro:80/download.php/optiune-show_download/did-1634/index.html",
+     "date": "2003-06-25"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.1 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026223130/http://www.perc.info:80/index.asp?page=75"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.1 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-1-listing/139",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "5.2": {
+   "date": "2003-10-15",
+   "sources": [
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — VU 5.2 notes posted by Marco|MindArk",
+     "url": "https://web.archive.org/web/20040529214357/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=2600%26amp",
+     "date": "2003-10-15"
+    },
+    {
+     "tier": 4,
+     "label": "computergames.ro — client v5.2.0 download page, notes in its description",
+     "url": "https://web.archive.org/web/20040306142823/http://www.computergames.ro:80/download.php/optiune-show_download/did-2228/index.html",
+     "date": "2003-10-17"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.2 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041027000427/http://www.perc.info:80/index.asp?page=76"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.2 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-2-listing/138",
+     "date": "2005-01-29"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Pioneers forum — VU 5.2 notes posted by Marco|MindArk",
+     "url": "https://web.archive.org/web/20040529214357/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=2600%26amp"
+    }
+   ]
+  },
+  "5.2.1": {
+   "date": "2003-10-29",
+   "sources": [
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — VU 5.2.1 notes posted by Marco|MindArk",
+     "url": "https://web.archive.org/web/20040529214503/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=2914%26amp",
+     "date": "2003-10-29"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — Vu 5.2.1 Listing (GeeKman, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-2-1-listing/137",
+     "date": "2005-01-29"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Pioneers forum — VU 5.2.1 notes posted by Marco|MindArk",
+     "url": "https://web.archive.org/web/20040529214503/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=2914%26amp"
+    }
+   ]
+  },
+  "5.2.X": {
+   "date": "2003-11-10",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — PE Netcode update 10 Nov 2003",
+     "url": "https://web.archive.org/web/20031210042005/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2003-11-10"
+    },
+    {
+     "tier": 4,
+     "label": "EntropiaPlanets — Today an update to the Netcode of Project Entropia is performed.",
+     "url": "https://web.archive.org/web/20230329224536/http://www.entropiaplanets.com/threads/pe-netcode-update.22994/",
+     "date": "2003-11-10"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — PE Netcode update 10 Nov 2003",
+     "url": "https://web.archive.org/web/20031210042005/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "5.3": {
+   "date": "2003-11-24",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 5.3 listing",
+     "url": "https://web.archive.org/web/20041224010125/http://www.project-entropia.com:80/StdContent.ajp?Id=1062",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 5.3 2003-11-24",
+     "url": "https://web.archive.org/web/20040529214919/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=3382%26amp",
+     "date": "2003-11-24"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.3 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026175904/http://www.perc.info:80/index.asp?page=69"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.3 Listing (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-3-listing/126",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "5.3.0.1": {
+   "date": "2003-12-08",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "Stratics — Project Entropia minor update",
+     "url": "https://web.archive.org/web/20040214005257/http://www.stratics.com/content/portals/entropia",
+     "date": "2003-11-26"
+    }
+   ]
+  },
+  "5.3.0.2": {
+   "date": "2003-11-27",
+   "sources": []
+  },
+  "5.3.0.3": {
+   "date": "2003-12-01",
+   "sources": []
+  },
+  "5.3.0.4": {
+   "date": "2003-12-03",
+   "sources": []
+  },
+  "5.3.0.5": {
+   "date": "2003-12-08",
+   "sources": []
+  },
+  "5.4": {
+   "date": "2003-12-17",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 5.4 content",
+     "url": "https://web.archive.org/web/20041224010507/http://www.project-entropia.com:80/StdContent.ajp?Id=1077",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.4 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026191800/http://www.perc.info:80/index.asp?page=70"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.4 Listing + mini updates (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-4-listing-mini-updates/127",
+     "date": "2005-01-29"
+    }
+   ],
+   "note": "The text this compilation once carried under 5.4 was VU 6.4's, and it now sits under 6.4 only.",
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — VU 5.4 content",
+     "url": "https://web.archive.org/web/20041224010507/http://www.project-entropia.com:80/StdContent.ajp?Id=1077"
+    }
+   ],
+   "note_until_transcribed": "MindArk's own 5.4 content list (17 Dec 2003) is the first source below."
+  },
+  "5.4.0.1": {
+   "date": "2003-12-18",
+   "sources": []
+  },
+  "5.4.0.2": {
+   "date": "2003-12-19",
+   "sources": []
+  },
+  "5.4.0.3": {
+   "date": "2003-12-21",
+   "sources": []
+  },
+  "5.4.0.4": {
+   "date": "2004-01-08",
+   "sources": []
+  },
+  "5.5": {
+   "date": "2004-02-17",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 5.5 content list",
+     "url": "https://web.archive.org/web/20041224012737/http://www.project-entropia.com:80/StdContent.ajp?Id=1152",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 5.5 2004-02-17",
+     "url": "https://web.archive.org/web/20040602052548/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=5640%26amp",
+     "date": "2004-02-17"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.5 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026191819/http://www.perc.info:80/index.asp?page=71"
+    },
+    {
+     "tier": 4,
+     "label": "Stratics — New society functionalities (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20040214005257/http://www.stratics.com/content/portals/entropia",
+     "date": "2004-01-15"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.5 Listing + mini updates (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-5-listing-mini-updates/128",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "5.5.0.10": {
+   "date": "2004-03-02",
+   "sources": []
+  },
+  "5.5.0.2": {
+   "date": "2004-02-18",
+   "sources": []
+  },
+  "5.5.0.3": {
+   "date": "2004-02-18",
+   "sources": []
+  },
+  "5.5.0.4": {
+   "date": "2004-02-19",
+   "sources": []
+  },
+  "5.5.0.5": {
+   "date": "2004-02-20",
+   "sources": []
+  },
+  "5.5.0.6": {
+   "date": "2004-02-23",
+   "sources": []
+  },
+  "5.5.0.7": {
+   "date": "2004-02-24",
+   "sources": []
+  },
+  "5.5.0.8": {
+   "date": "2004-02-25",
+   "sources": []
+  },
+  "5.5.0.9": {
+   "date": "2004-03-01",
+   "sources": []
+  },
+  "5.6": {
+   "date": "2004-03-05",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 5.6 content list",
+     "url": "https://web.archive.org/web/20041224012732/http://www.project-entropia.com:80/StdContent.ajp?Id=1168",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 5.6 miniupdates",
+     "url": "https://web.archive.org/web/20041224011431/http://www.project-entropia.com:80/StdContent.ajp?Id=1169",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 5.6 2004-03-05",
+     "url": "https://web.archive.org/web/20040602053155/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=7794%26amp",
+     "date": "2004-03-05"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.6 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026204611/http://www.perc.info:80/index.asp?page=72"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.6 Listing + mini updates (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-6-listing-mini-updates/129",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "5.6.X": {
+   "date": "2004-04-05",
+   "sources": []
+  },
+  "5.7": {
+   "date": "2004-06-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 5.7 miniupdates",
+     "url": "https://web.archive.org/web/20041224012136/http://www.project-entropia.com:80/StdContent.ajp?Id=1214",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 5.7 2004-06-01",
+     "url": "https://web.archive.org/web/20040629133920/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=9952%26amp",
+     "date": "2004-06-01"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — Hello crew! The progress of the next Project Entropia Version Update 5.7 (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20040627165051/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=8458%26amp",
+     "date": "2004-04-23"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 5.7 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026204625/http://www.perc.info:80/index.asp?page=73"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 5.7 Listing + mini updates (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-5-7-listing-mini-updates/130",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "5.7.1": {
+   "date": "",
+   "sources": [],
+   "note": "No notes for VU 5.7.1 (June 2004) have been found. The text this compilation once carried under 5.7.1 is VU 7.5.1's and now sits there."
+  },
+  "5.7.X": {
+   "date": "2004-06-07",
+   "sources": []
+  },
+  "6.0": {
+   "date": "2004-08-10",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 6.0 content list",
+     "url": "https://web.archive.org/web/20041224011450/http://www.project-entropia.com:80/StdContent.ajp?Id=1314",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 6.0 miniupdates",
+     "url": "https://web.archive.org/web/20041224012141/http://www.project-entropia.com:80/StdContent.ajp?Id=1342",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — VU 6.0 notes posted by Marco|MindArk",
+     "url": "https://web.archive.org/web/20040918183918/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=12760%26amp",
+     "date": "2004-08-10"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 6.0 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026223018/http://www.perc.info:80/index.asp?page=74"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 6.0 Listing + mini updates (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-6-0-listing-mini-updates/131",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "6.0.X": {
+   "date": "2004-08-11",
+   "sources": []
+  },
+  "6.1": {
+   "date": "2004-10-06",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 6.1 content list",
+     "url": "https://web.archive.org/web/20041224011930/http://www.project-entropia.com:80/StdContent.ajp?Id=1416",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 6.1 known issues",
+     "url": "https://web.archive.org/web/20041224013056/http://www.project-entropia.com:80/StdContent.ajp?Id=1434",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 6.1 2004-10-06",
+     "url": "https://web.archive.org/web/20050426090149/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=14993%26amp",
+     "date": "2004-10-06"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 6.1 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041026025138/http://www.perc.info:80/index.asp?page=170"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 6.1 Listing (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-6-1-listing/132",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "6.1.X": {
+   "date": "2004-10-22",
+   "sources": []
+  },
+  "6.2": {
+   "date": "2004-11-02",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 6.2 content list",
+     "url": "https://web.archive.org/web/20041224010926/http://www.project-entropia.com:80/StdContent.ajp?Id=1495",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 6.2 2004-11-02",
+     "url": "https://web.archive.org/web/20050426090225/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=16507%26amp",
+     "date": "2004-11-02"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 6.2 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041204150607/http://www.perc.info:80/index.asp?page=180"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 6.2 Listing (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-6-2-listing/133",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "6.3": {
+   "date": "2004-11-23",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 6.3 content list",
+     "url": "https://web.archive.org/web/20041224012253/http://www.project-entropia.com:80/StdContent.ajp?Id=1514",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 6.3 2004-11-23",
+     "url": "https://web.archive.org/web/20050426090255/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=17225%26amp",
+     "date": "2004-11-23"
+    },
+    {
+     "tier": 4,
+     "label": "perc.info — VU 6.3 listing (fan site, 2004)",
+     "url": "https://web.archive.org/web/20041204154049/http://www.perc.info:80/index.asp?page=184"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 6.3 Listing (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-6-3-listing/134",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "6.4": {
+   "date": "2004-12-16",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 6.4 content list",
+     "url": "https://web.archive.org/web/20041224011014/http://www.project-entropia.com:80/StdContent.ajp?Id=1558",
+     "date": "2004-12-24"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia update expected before Christmas (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20041223173010/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2004-12-09"
+    }
+   ]
+  },
+  "7.0": {
+   "date": "2005-01-25",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Pre-VU 7.0 configuration 25 Jan 2005",
+     "url": "https://web.archive.org/web/20060317184743/http://www.project-entropia.com/StdContent.ajp?Id=1618",
+     "date": "2005-01-25"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.0 content list",
+     "url": "https://web.archive.org/web/20050406074754/http://www.project-entropia.com:80/StdContent.ajp?Id=1615",
+     "date": "2005-04-06"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.0 sneak peek (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20050112195749/http://www.project-entropia.com:80/StdContent.ajp?Id=1597",
+     "date": "2005-01-12"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — VU 7.0 listing (MindBuster, 2005 repost)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-0-listing/135",
+     "date": "2005-01-29"
+    }
+   ]
+  },
+  "7.0.X": {
+   "date": "2005-01-25",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia Version Update 7.0 25 Jan 2005",
+     "url": "https://web.archive.org/web/20050207101907/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-01-25"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — Project Entropia Version Update 7.0 25 Jan 2005",
+     "url": "https://web.archive.org/web/20050207101907/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "7.1": {
+   "date": "2005-02-15",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.1 content list",
+     "url": "https://web.archive.org/web/20050404153849/http://www.project-entropia.com:80/StdContent.ajp?Id=1637",
+     "date": "2005-04-04"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.1 Listing (Einstein)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-1-listing/346",
+     "date": "2005-02-15"
+    }
+   ]
+  },
+  "7.1.X": {
+   "date": "2005-02-24",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Update to Project Entropia 24 Feb 2005",
+     "url": "https://web.archive.org/web/20050302030647/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-02-24"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — From the client loader... VU 7.1 has been updated.",
+     "url": "https://forum.entropiauniverse.com/t/513",
+     "date": "2005-02-24"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — Update to Project Entropia 24 Feb 2005",
+     "url": "https://web.archive.org/web/20050302030647/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "7.2": {
+   "date": "2005-03-21",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — PE Update applied 21 Mar 2005",
+     "url": "https://web.archive.org/web/20050326070715/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-03-21"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.2 content list",
+     "url": "https://web.archive.org/web/20050326152807/http://www.project-entropia.com:80/StdContent.ajp?Id=1735",
+     "date": "2005-03-26"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Apartments are soon here (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20050326152741/http://www.project-entropia.com:80/StdContent.ajp?Id=1675",
+     "date": "2005-03-09"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.2 Listing (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-2-listing/920",
+     "date": "2005-03-22"
+    }
+   ]
+  },
+  "7.2.X": {
+   "date": "2005-03-29",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Updates to apartments 29 Mar 2005",
+     "url": "https://web.archive.org/web/20050507102733/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-03-29"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — Updates to apartments 29 Mar 2005",
+     "url": "https://web.archive.org/web/20050507102733/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "7.3": {
+   "date": "2005-05-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia Version Updated to VU 7.3",
+     "url": "https://web.archive.org/web/20050507102733/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-05-04"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.3 Listing (Abee)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-3-listing/1783",
+     "date": "2005-05-04"
+    }
+   ]
+  },
+  "7.4": {
+   "date": "2005-05-24",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia Version Update 7.4 24 May 2005",
+     "url": "https://web.archive.org/web/20050526023548/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-05-24"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.4 Listing (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-4-listing/2295",
+     "date": "2005-05-24"
+    }
+   ]
+  },
+  "7.4.X": {
+   "date": "2005-05-29",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Update to VU 7.4 27 May 2005",
+     "url": "https://web.archive.org/web/20050529012455/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-05-27"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — some mini update fixing video cards issues has come",
+     "url": "https://forum.entropiauniverse.com/t/2336",
+     "date": "2005-05-25"
+    },
+    {
+     "tier": 4,
+     "label": "EntropiaPlanets — Some areas have been updated in VU 7.4",
+     "url": "https://web.archive.org/web/20200815163134/http://www.entropiaplanets.com/threads/update-to-vu-7-4-27-may-2005.11994/",
+     "date": "2005-05-27"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — some mini update fixing video cards issues has come",
+     "url": "https://forum.entropiauniverse.com/t/2336"
+    },
+    {
+     "label": "project-entropia.com — Update to VU 7.4 27 May 2005",
+     "url": "https://web.archive.org/web/20050529012455/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "7.5": {
+   "date": "2005-07-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.5 content list",
+     "url": "https://web.archive.org/web/20060317185207/http://www.project-entropia.com/StdContent.ajp?Id=1974",
+     "date": "2006-03-17"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.5 known issues",
+     "url": "https://web.archive.org/web/20060317185215/http://www.project-entropia.com/StdContent.ajp?Id=1975",
+     "date": "2006-03-17"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — PROJECT ENTROPIA VERSION UPDATE 7.5 2005-07-01",
+     "url": "https://web.archive.org/web/20060302003346/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=25226%26amp;sid=85d56a043074a3dc3beec2c30ba51ff0",
+     "date": "2005-07-01"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — Hello! Some tidbits as to PE's future development. (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20060302003340/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=24311%26amp;sid=85d56a043074a3dc3beec2c30ba51ff0",
+     "date": "2005-05-31"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.5 Content Listing [Updated w/ VU 7.5.1] (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-5-content-listing-updated-w-vu-7-5-1/3325",
+     "date": "2005-07-01"
+    }
+   ]
+  },
+  "7.5.1": {
+   "date": "2005-07-08",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Version Update 7.5 update with fixes. 06 Jul 2005",
+     "url": "https://web.archive.org/web/20050710011300/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-07-06"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.5 Content Listing [Updated w/ VU 7.5.1] (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-5-content-listing-updated-w-vu-7-5-1/3325",
+     "date": "2005-07-01"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — Version Updates archive",
+     "url": "https://www.entropiamuseum.com/vu/"
+    }
+   ]
+  },
+  "7.5.X": {
+   "date": "2005-08-18",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Project Entropia update 18 Aug 2005",
+     "url": "https://web.archive.org/web/20050820045016/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-08-18"
+    },
+    {
+     "tier": 4,
+     "label": "EntropiaPlanets — In today's release, the robot space craft system has been updated.",
+     "url": "https://web.archive.org/web/20191021071506/http://www.entropiaplanets.com/threads/project-entropia-update-18-aug-2005.12039/",
+     "date": "2005-08-18"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — Project Entropia update 18 Aug 2005",
+     "url": "https://web.archive.org/web/20050820045016/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "7.6": {
+   "date": "2005-09-23",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.6 content list, part 1 (mining)",
+     "url": "https://web.archive.org/web/20060111210708/http://www.project-entropia.com:80/StdContent.ajp?Id=2014",
+     "date": "2005-09-22"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.6 content list, part 2 (tutorial, message centre, limited items)",
+     "url": "https://web.archive.org/web/20060111194224/http://www.project-entropia.com:80/StdContent.ajp?Id=2016",
+     "date": "2005-09-22"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — VU 7.6 notes posted by Marco|MindArk",
+     "url": "https://web.archive.org/web/20060302004456/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=26934%26amp;start=0%26amp;sid=85d56a043074a3dc3beec2c30ba51ff0",
+     "date": "2005-09-22"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Universe forum — Project Entropia VU 7.6 (Marco_SDS (MindArk))",
+     "url": "https://forum.entropiauniverse.com/t/project-entropia-vu-7-6/5561",
+     "date": "2005-09-22"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.6 Content Listing (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-6-content-listing/5558",
+     "date": "2005-09-22"
+    }
+   ]
+  },
+  "7.6.2": {
+   "date": "2005-09-27",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.6.2 applied 27 Sep 2005",
+     "url": "https://web.archive.org/web/20060103211214/http://www.project-entropia.com:80/news/Index.ajp?skip=20",
+     "date": "2005-09-27"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Taken from the Client Loader - enjoy: VU 7.6.2 applied 27 Sep 2005",
+     "url": "https://forum.entropiauniverse.com/t/5787/17",
+     "date": "2005-09-27"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — VU 7.6.2 applied 27 Sep 2005",
+     "url": "https://web.archive.org/web/20060103211214/http://www.project-entropia.com:80/news/Index.ajp?skip=20"
+    }
+   ]
+  },
+  "7.6.3": {
+   "date": "2005-09-30",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.6.3 applied 28 Sep 2005",
+     "url": "https://web.archive.org/web/20051013062816/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-09-28"
+    },
+    {
+     "tier": 4,
+     "label": "EntropiaPlanets — An update has been applied to Project Entropia.",
+     "url": "https://web.archive.org/web/20190717024624/http://www.entropiaplanets.com/threads/vu-7-6-3-applied-28-sep-2005.12068/",
+     "date": "2005-09-28"
+    }
+   ]
+  },
+  "7.6.X": {
+   "date": "2005-10-12",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — PE Update 12 Oct 2005",
+     "url": "https://web.archive.org/web/20051013062816/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-10-12"
+    },
+    {
+     "tier": 4,
+     "label": "EntropiaPlanets — Applied an update that fixed an issue which allowed for adding residues",
+     "url": "https://web.archive.org/web/20190721112446/http://www.entropiaplanets.com/threads/pe-update-12-oct-2005.12077/",
+     "date": "2005-10-12"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — PE Update 12 Oct 2005",
+     "url": "https://web.archive.org/web/20051013062816/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "7.7": {
+   "date": "2005-11-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — PE Updated to VU 7.7 01 Nov 2005",
+     "url": "https://web.archive.org/web/20051104095434/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-11-01"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.7 content list",
+     "url": "https://web.archive.org/web/20060103062024/http://www.project-entropia.com:80/StdContent.ajp?Id=2054",
+     "date": "2006-01-03"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Upcoming changes to disciple graduation levels (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20051025021435/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2005-10-24"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 7.7 Content Listing (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-7-7-content-listing/7365",
+     "date": "2005-11-01"
+    },
+    {
+     "tier": 4,
+     "label": "EntropiaPlanets — In the upcoming Version Update (VU 7.7) two graduation skill levels will be increased. (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20190723153532/http://www.entropiaplanets.com/threads/upcoming-changes-to-disciple-graduation-levels-24-oct-2005.12082/",
+     "date": "2005-10-24"
+    }
+   ]
+  },
+  "7.7.1": {
+   "date": "2005-11-02",
+   "sources": []
+  },
+  "7.7.2": {
+   "date": "2005-11-07",
+   "sources": []
+  },
+  "7.8": {
+   "date": "2005-11-23",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 7.8 content list",
+     "url": "https://web.archive.org/web/20060103112827/http://www.project-entropia.com:80/StdContent.ajp?Id=2074",
+     "date": "2006-01-03"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Pioneers forum — VU 7.8 notes posted by Marco|MindArk",
+     "url": "https://web.archive.org/web/20060302004502/http://entropia-pioneers.kicks-ass.org:80/phpBB2/viewtopic.php?t=28099%26amp;start=0%26amp;sid=85d56a043074a3dc3beec2c30ba51ff0",
+     "date": "2005-11-23"
+    },
+    {
+     "tier": 2,
+     "label": "Entropia Universe forum — Project Entropia VU 7.8 (Marco_SDS (MindArk))",
+     "url": "https://forum.entropiauniverse.com/t/project-entropia-vu-7-8/8869",
+     "date": "2005-11-23"
+    }
+   ]
+  },
+  "8.0": {
+   "date": "2005-12-19",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 8.0 content list",
+     "url": "https://web.archive.org/web/20060103130202/http://www.project-entropia.com:80/StdContent.ajp?Id=2094",
+     "date": "2006-01-03"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VERSION UPDATE 8.0 Content Listing (kygon)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-0-content-listing/10888",
+     "date": "2005-12-19"
+    }
+   ]
+  },
+  "8.0.1": {
+   "date": "2005-12-21",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 8.0.1 minipatch",
+     "url": "https://web.archive.org/web/20060214093711/http://www.project-entropia.com:80/StdContent.ajp?Id=2095",
+     "date": "2006-02-14"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Minipatch 8.0.1 21 Dec 2005 Release 8.0.1 fixed a couple of things",
+     "url": "https://forum.entropiauniverse.com/t/11091",
+     "date": "2005-12-21"
+    }
+   ]
+  },
+  "8.0.2": {
+   "date": "2005-12-22",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 8.0.2 minipatch",
+     "url": "https://web.archive.org/web/20060103122716/http://www.project-entropia.com:80/StdContent.ajp?Id=2098",
+     "date": "2006-01-03"
+    }
+   ]
+  },
+  "8.1": {
+   "date": "2006-02-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 8.1 content list",
+     "url": "https://web.archive.org/web/20060214093656/http://www.project-entropia.com:80/StdContent.ajp?Id=2116",
+     "date": "2006-02-14"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 8.1 Content List (Teranoz)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-1-content-list/14315",
+     "date": "2006-02-01"
+    }
+   ]
+  },
+  "8.1.1": {
+   "date": "2006-02-08",
+   "sources": []
+  },
+  "8.1.2": {
+   "date": "2006-02-13",
+   "sources": []
+  },
+  "8.1.3": {
+   "date": "2006-02-22",
+   "sources": []
+  },
+  "8.11": {
+   "date": "2007-03-20",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.11 content list",
+     "url": "https://web.archive.org/web/20070325001335/http://www.entropiauniverse.com:80/en/rich/6600.html",
+     "date": "2007-03-25"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.11 preview",
+     "preview": true,
+     "url": "https://web.archive.org/web/20070315175549/http://account.entropiauniverse.com:80/pe/en/rich/6590.html",
+     "date": "2007-03-15"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 8.11 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-8-11/56816",
+     "date": "2007-03-19"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Content List VU 8.11 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/content-list-vu-8-11/56901",
+     "date": "2007-03-20"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — Preview",
+     "preview": true,
+     "url": "https://web.archive.org/web/20111207042019/http://www.entropiadirectory.com:80/wiki/VU_8.11"
+    }
+   ]
+  },
+  "8.11.1": {
+   "date": "2007-03-22",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.11.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-11-1/57228",
+     "date": "2007-03-22"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 8.11.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-11-1/57228"
+    }
+   ]
+  },
+  "8.11.X": {
+   "date": "2007-03-21",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Mini Update, 21 Mar 2007",
+     "url": "https://web.archive.org/web/20070325195533/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-03-21"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Mini Update, 23 Mar 2007",
+     "url": "https://web.archive.org/web/20070325195533/http://www.entropiauniverse.com:80/en/rich/5377.html#2007-03-23",
+     "date": "2007-03-23"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini Update 21 Mar 2007",
+     "url": "https://forum.entropiauniverse.com/t/57099",
+     "date": "2007-03-21"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Mini Update, 21 Mar 2007",
+     "url": "https://web.archive.org/web/20070325195533/http://www.entropiauniverse.com:80/en/rich/5377.html"
+    },
+    {
+     "label": "entropiauniverse.com — Mini Update, 23 Mar 2007",
+     "url": "https://web.archive.org/web/20070325195533/http://www.entropiauniverse.com:80/en/rich/5377.html#2007-03-23"
+    }
+   ]
+  },
+  "8.12": {
+   "date": "2007-06-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.12 content list",
+     "url": "https://web.archive.org/web/20070606065209/http://www.entropiauniverse.com:80/en/rich/6675.html",
+     "date": "2007-06-06"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 8.12 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-8-12/65060",
+     "date": "2007-06-01"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 8.12 Application (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-8-12-application/65331",
+     "date": "2007-06-04"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — Content List VU 8.12",
+     "url": "https://web.archive.org/web/20101205074756/http://www.entropiadirectory.com:80/wiki/VU_8.12"
+    }
+   ]
+  },
+  "8.12.1": {
+   "date": "2007-06-05",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.12.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-12-1/65514",
+     "date": "2007-06-05"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 8.12.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-12-1/65514"
+    }
+   ]
+  },
+  "8.12.2": {
+   "date": "2007-06-07",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Application of Entropia Universe Version Update 8.12.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/application-of-entropia-universe-version-update-8-12-2/65776",
+     "date": "2007-06-07"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.12.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-12-2/65782",
+     "date": "2007-06-07"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — Version Updates archive",
+     "url": "https://www.entropiamuseum.com/vu/"
+    }
+   ]
+  },
+  "8.12.3": {
+   "date": "2007-06-20",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Fixed Issues 8.12.3",
+     "url": "https://web.archive.org/web/20071007080456/http://account.entropiauniverse.com/pe/en/rich/6717.html?supportnewspage=4",
+     "date": "2007-06-20"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Fixed Issues 8.12.3",
+     "url": "https://forum.entropiauniverse.com/t/67304",
+     "date": "2007-06-20"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Fixed Issues 8.12.3",
+     "url": "https://web.archive.org/web/20071007080456/http://account.entropiauniverse.com/pe/en/rich/6717.html?supportnewspage=4"
+    }
+   ]
+  },
+  "8.12.X": {
+   "date": "2007-08-16",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Mini-Update",
+     "url": "https://web.archive.org/web/20071007001243/http://www.entropiauniverse.com/en/rich/5377.html",
+     "date": "2007-08-16"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini-Update 16 Aug 2007",
+     "url": "https://forum.entropiauniverse.com/t/73007",
+     "date": "2007-08-16"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Mini-Update",
+     "url": "https://web.archive.org/web/20071007001243/http://www.entropiauniverse.com/en/rich/5377.html"
+    }
+   ]
+  },
+  "8.2": {
+   "date": "2006-03-22",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 8.2 content list",
+     "url": "https://web.archive.org/web/20060429141323/http://www.project-entropia.com:80/StdContent.ajp?Id=2155",
+     "date": "2006-04-29"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.2 content list",
+     "url": "https://web.archive.org/web/20060507034614/http://www.entropiauniverse.com:80/en/rich/5502.html",
+     "date": "2006-05-07"
+    },
+    {
+     "tier": 1,
+     "label": "project-entropia.com — VU 8.2 Preview 17 Mar 2006",
+     "preview": true,
+     "url": "https://web.archive.org/web/20060317183801/http://www.project-entropia.com/news/Index.ajp",
+     "date": "2006-03-17"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 8.2 Content Listing (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-2-content-listing/18731",
+     "date": "2006-03-22"
+    }
+   ]
+  },
+  "8.2.1": {
+   "date": "2006-03-28",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Updates 28 Mar 2006",
+     "url": "https://web.archive.org/web/20060406180824/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2006-03-28"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — (from main page) Updates 28 Mar 2006",
+     "url": "https://forum.entropiauniverse.com/t/19502",
+     "date": "2006-03-28"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — Updates 28 Mar 2006",
+     "url": "https://web.archive.org/web/20060406180824/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "8.2.2": {
+   "date": "2006-03-28",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — Updates 28 Mar 2006",
+     "url": "https://web.archive.org/web/20060406180824/http://www.project-entropia.com:80/news/Index.ajp",
+     "date": "2006-03-28"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — (from main page) Updates 28 Mar 2006",
+     "url": "https://forum.entropiauniverse.com/t/19502",
+     "date": "2006-03-28"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — Updates 28 Mar 2006",
+     "url": "https://web.archive.org/web/20060406180824/http://www.project-entropia.com:80/news/Index.ajp"
+    }
+   ]
+  },
+  "8.2.3": {
+   "date": "",
+   "sources": [
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — Does anyone know the content of this \"miniupdate\" ?",
+     "url": "https://forum.entropiauniverse.com/t/20770",
+     "date": "2006-04-13"
+    }
+   ]
+  },
+  "8.3": {
+   "date": "2006-04-24",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Known Mining Issue with 8.3",
+     "url": "https://web.archive.org/web/20060510171902/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2006-04-24"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.3 content list",
+     "url": "https://web.archive.org/web/20060428075950/http://www.entropiauniverse.com:80/en/rich/5525.html",
+     "date": "2006-04-28"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 8.3 Content List (system)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-3-content-list/21709",
+     "date": "2006-04-24"
+    }
+   ]
+  },
+  "8.3.1": {
+   "date": "2006-04-26",
+   "sources": []
+  },
+  "8.3.2": {
+   "date": "2006-05-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.3.2 Update",
+     "url": "https://web.archive.org/web/20060508171842/http://account.entropiauniverse.com:80/pe/en/rich/5078.html",
+     "date": "2006-05-04"
+    },
+    {
+     "tier": 5,
+     "label": "PE Wiki — Project Entropia VU 8.3.2 04 May 2006",
+     "url": "https://web.archive.org/web/20060528094201/http://www.pe-wiki.info:80/Info.aspx?chart=VU&id=49",
+     "date": "2006-05-04"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 8.3.2 Update",
+     "url": "https://web.archive.org/web/20060508171842/http://account.entropiauniverse.com:80/pe/en/rich/5078.html"
+    }
+   ]
+  },
+  "8.4": {
+   "date": "2006-05-30",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.4 content list",
+     "url": "https://web.archive.org/web/20060601060921/http://www.entropiauniverse.com:80/en/rich/5600.html",
+     "date": "2006-06-01"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 8.4 Content listing (MindBuster)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-4-content-listing/25072",
+     "date": "2006-05-30"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — The Entropia Universe servers will be temporarily unavailable while we implement VU 8.4",
+     "url": "https://web.archive.org/web/20070324221220/http://www.entropiadirectory.com:80/wiki/VU_8.4"
+    }
+   ]
+  },
+  "8.4.1": {
+   "date": "2006-06-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.4.1 Update",
+     "url": "https://web.archive.org/web/20060621113834/http://account.entropiauniverse.com:80/pe/en/rich/5078.html?newspage=6",
+     "date": "2006-06-01"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 8.4.1 Update 01 Jun 2006",
+     "url": "https://forum.entropiauniverse.com/t/25307/4",
+     "date": "2006-06-01"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 8.4.1 Update",
+     "url": "https://web.archive.org/web/20060621113834/http://account.entropiauniverse.com:80/pe/en/rich/5078.html?newspage=6"
+    }
+   ]
+  },
+  "8.4.2": {
+   "date": "2006-06-14",
+   "sources": []
+  },
+  "8.5": {
+   "date": "2006-07-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.5 content list",
+     "url": "https://web.archive.org/web/20060705205024/http://www.entropiauniverse.com:80/en/rich/5726.html",
+     "date": "2006-07-05"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.5 Coming Features (preview)",
+     "preview": true,
+     "url": "https://web.archive.org/web/20060715044544/http://account.entropiauniverse.com:80/pe/en/rich/5078.html",
+     "date": "2006-06-22"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — V.U. 8.5 Content Listing (nutter)",
+     "url": "https://forum.entropiauniverse.com/t/v-u-8-5-content-listing/28267",
+     "date": "2006-07-04"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — ENTROPIA UNIVERSE MINI-UPDATE 8.5.1",
+     "url": "https://web.archive.org/web/20080228062303/http://www.entropiadirectory.com:80/wiki/VU_8.5"
+    }
+   ]
+  },
+  "8.5.1": {
+   "date": "2006-07-07",
+   "sources": []
+  },
+  "8.5.2": {
+   "date": "2006-08-21",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — From entropiauniverse.com news section:",
+     "url": "https://forum.entropiauniverse.com/t/33106",
+     "date": "2006-08-21"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — From entropiauniverse.com news section:",
+     "url": "https://forum.entropiauniverse.com/t/33106"
+    }
+   ]
+  },
+  "8.5.4": {
+   "date": "2006-08-26",
+   "sources": []
+  },
+  "8.6": {
+   "date": "2006-09-18",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.6 content list",
+     "url": "https://web.archive.org/web/20061113005245/http://www.entropiauniverse.com/en/rich/5783.html",
+     "date": "2006-11-13"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Known Issues VU 8.6",
+     "url": "https://forum.entropiauniverse.com/t/36112",
+     "date": "2006-09-19"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 8.6 Content listing (mrproper)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-6-content-listing/36015",
+     "date": "2006-09-18"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — VU 8.6 Content Listing (711)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-6-content-listing/36445",
+     "date": "2006-09-22"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — Issues addressed by the latest update 8.6.4 include:",
+     "url": "https://web.archive.org/web/20070324163456/http://www.entropiadirectory.com:80/wiki/VU_8.6"
+    }
+   ]
+  },
+  "8.6.1": {
+   "date": "2006-09-19",
+   "sources": []
+  },
+  "8.6.2": {
+   "date": "2006-09-21",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Version Update 8.6.2 Applied",
+     "url": "https://web.archive.org/web/20061113005233/http://www.entropiauniverse.com/pe/en/rich/5078.html?newspage=7",
+     "date": "2006-09-21"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — The Entropia Universe has been updated with VU 8.6.2.",
+     "url": "https://forum.entropiauniverse.com/t/36348/15",
+     "date": "2006-09-21"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Entropia Universe Version Update 8.6.2 Applied",
+     "url": "https://web.archive.org/web/20061113005233/http://www.entropiauniverse.com/pe/en/rich/5078.html?newspage=7"
+    }
+   ]
+  },
+  "8.6.3": {
+   "date": "2006-09-26",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Version Update 8.6.3 Applied",
+     "url": "https://web.archive.org/web/20061113005233/http://www.entropiauniverse.com/pe/en/rich/5078.html?newspage=7",
+     "date": "2006-09-26"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — 26 Sep 2006 Known Issues VU 8.6.3",
+     "url": "https://forum.entropiauniverse.com/t/36897",
+     "date": "2006-09-26"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Entropia Universe Version Update 8.6.3 Applied",
+     "url": "https://web.archive.org/web/20061113005233/http://www.entropiauniverse.com/pe/en/rich/5078.html?newspage=7"
+    }
+   ]
+  },
+  "8.6.4": {
+   "date": "2006-10-05",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Fixed Issues 8.6.4",
+     "url": "https://forum.entropiauniverse.com/t/37876",
+     "date": "2006-10-05"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Fixed Issues 8.6.4",
+     "url": "https://forum.entropiauniverse.com/t/37876"
+    }
+   ]
+  },
+  "8.7": {
+   "date": "2006-11-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.7 content list",
+     "url": "https://web.archive.org/web/20061113005141/http://www.entropiauniverse.com/en/rich/6120.html",
+     "date": "2006-11-13"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.7 preview",
+     "preview": true,
+     "url": "https://web.archive.org/web/20061105210333/http://www.entropiauniverse.com:80/en/rich/6096.html",
+     "date": "2006-11-05"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — VU 8.7.4",
+     "url": "https://web.archive.org/web/20120504033709/http://www.entropiadirectory.com/wiki/VU_8.7"
+    }
+   ]
+  },
+  "8.7.1": {
+   "date": "2006-11-02",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — VU 8.7.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-7-1/40814",
+     "date": "2006-11-02"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — VU 8.7.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/vu-8-7-1/40814"
+    }
+   ]
+  },
+  "8.7.2": {
+   "date": "2006-11-08",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.7.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-7-2/41541",
+     "date": "2006-11-08"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — Version Updates archive",
+     "url": "https://www.entropiamuseum.com/vu/"
+    }
+   ]
+  },
+  "8.7.3": {
+   "date": "2006-11-15",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Version Update 8.7.3 (Primax)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-7-3/42327",
+     "date": "2006-11-15"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 8.7.3 (Primax)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-7-3/42327"
+    }
+   ]
+  },
+  "8.7.4": {
+   "date": "2006-11-30",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.7.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-7-4/43989",
+     "date": "2006-11-30"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 8.7.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-7-4/43989"
+    }
+   ]
+  },
+  "8.8": {
+   "date": "2006-12-18",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Known Issues 8.8",
+     "url": "https://web.archive.org/web/20070203122137/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2006-12-22"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.8 notice",
+     "url": "https://web.archive.org/web/20070103202039/http://www.entropiauniverse.com:80/en/rich/6271.html",
+     "date": "2007-01-03"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Known Issues",
+     "url": "https://web.archive.org/web/20070114234230/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-01-05"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.8 preview",
+     "preview": true,
+     "url": "https://web.archive.org/web/20061216095548/http://www.entropiauniverse.com:80/en/rich/6217.html",
+     "date": "2006-12-16"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 8.8 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-8-8/45890",
+     "date": "2006-12-18"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 8.8 Applied (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-8-8-applied/45924",
+     "date": "2006-12-18"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — VU 8.8 Preview (news bot)",
+     "preview": true,
+     "url": "https://forum.entropiauniverse.com/t/vu-8-8-preview/45391",
+     "date": "2006-12-13"
+    }
+   ]
+  },
+  "8.8.1": {
+   "date": "2006-12-20",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.8.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-8-1/46213",
+     "date": "2006-12-20"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 8.8.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-8-1/46213"
+    }
+   ]
+  },
+  "8.8.2": {
+   "date": "2007-01-17",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 8.8.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-8-8-2/49272",
+     "date": "2007-01-17"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.8.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-8-2/49287",
+     "date": "2007-01-17"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 8.8.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-8-2/49287"
+    }
+   ]
+  },
+  "8.9": {
+   "date": "2007-02-06",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Known Issues VU 8.9",
+     "url": "https://web.archive.org/web/20070212040643/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-02-07"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.9 content list",
+     "url": "https://web.archive.org/web/20070207234746/http://www.entropiauniverse.com:80/en/rich/6453.html",
+     "date": "2007-02-07"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.9 preview",
+     "preview": true,
+     "url": "https://web.archive.org/web/20070203053655/http://account.entropiauniverse.com:80/pe/en/rich/6429.html",
+     "date": "2007-02-03"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 8.9 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-8-9/51638",
+     "date": "2007-02-05"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — Mini-updates after VU 8.9",
+     "url": "https://web.archive.org/web/20080809020343/http://www.entropiadirectory.com:80/wiki/VU_8.9"
+    }
+   ]
+  },
+  "8.9.1": {
+   "date": "2007-02-08",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.9.1 notice",
+     "url": "https://web.archive.org/web/20070212040643/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-02-12"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 8.9.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-9-1/52060",
+     "date": "2007-02-08"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 8.9.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-8-9-1/52060"
+    }
+   ]
+  },
+  "8.9.2": {
+   "date": "2007-02-13",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 8.9.2 notice",
+     "url": "https://web.archive.org/web/20070217203108/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-02-17"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe VU 8.9.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-vu-8-9-2/52714",
+     "date": "2007-02-13"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe VU 8.9.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-vu-8-9-2/52714"
+    }
+   ]
+  },
+  "8.9.X": {
+   "date": "2007-03-06",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Mini Update",
+     "url": "https://web.archive.org/web/20070308150907/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-03-06"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Mini Update 6 Mar 2007",
+     "url": "https://forum.entropiauniverse.com/t/55427",
+     "date": "2007-03-06"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Entropia Universe Mini Update",
+     "url": "https://web.archive.org/web/20070308150907/http://www.entropiauniverse.com:80/en/rich/5377.html"
+    }
+   ]
+  },
+  "9.0": {
+   "date": "2007-10-09",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Known Issues 9.0",
+     "url": "https://web.archive.org/web/20071011001212/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-10-09"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.0 content list",
+     "url": "https://web.archive.org/web/20071011014918/http://www.entropiauniverse.com:80/en/rich/6891.html",
+     "date": "2007-10-11"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.0 preview",
+     "preview": true,
+     "url": "https://web.archive.org/web/20070821073322/http://account.entropiauniverse.com:80/pe/en/rich/6813.html",
+     "date": "2007-08-21"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.0 preview ii",
+     "preview": true,
+     "url": "https://web.archive.org/web/20071007000658/http://account.entropiauniverse.com/pe/en/rich/6866.html",
+     "date": "2007-10-07"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.0 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-0/77137",
+     "date": "2007-10-08"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Content List VU 9.0 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/content-list-vu-9-0/77197",
+     "date": "2007-10-09"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — Words from Marco Behrmann Director of Community Relations",
+     "url": "https://web.archive.org/web/20080120065418/http://www.entropiadirectory.com:80/wiki/VU_9.0"
+    }
+   ]
+  },
+  "9.0.1": {
+   "date": "2007-10-11",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.0.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-0-1/77597",
+     "date": "2007-10-11"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.0.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-0-1/77597"
+    }
+   ]
+  },
+  "9.0.2": {
+   "date": "2007-10-16",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Armor Deterioration Changes 15 Oct 2007",
+     "url": "https://forum.entropiauniverse.com/t/78147",
+     "date": "2007-10-15"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.0.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-0-2/78258",
+     "date": "2007-10-16"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — Version Updates archive",
+     "url": "https://www.entropiamuseum.com/vu/"
+    }
+   ]
+  },
+  "9.0.3": {
+   "date": "2007-10-23",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Version Update 9.0.3",
+     "url": "https://web.archive.org/web/20071113013144/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-10-23"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.0.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-0-3/78904",
+     "date": "2007-10-23"
+    }
+   ]
+  },
+  "9.0.5": {
+   "date": "2007-11-08",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.0.5 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-0-5/80426",
+     "date": "2007-11-08"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.0.5 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-0-5/80426"
+    }
+   ]
+  },
+  "9.0.X": {
+   "date": "2007-11-09",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Mini Update",
+     "url": "https://web.archive.org/web/20071113013144/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2007-11-09"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini Update 9 Nov 2007",
+     "url": "https://forum.entropiauniverse.com/t/80511",
+     "date": "2007-11-09"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Mini Update",
+     "url": "https://web.archive.org/web/20071113013144/http://www.entropiauniverse.com:80/en/rich/5377.html"
+    }
+   ]
+  },
+  "9.1": {
+   "date": "2007-12-11",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.1 content list",
+     "url": "https://web.archive.org/web/20071213220932/http://www.entropiauniverse.com:80/en/rich/107067.html",
+     "date": "2007-12-13"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-1/83427",
+     "date": "2007-12-10"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Content List VU 9.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/content-list-vu-9-1/83542",
+     "date": "2007-12-11"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Directory wiki — Content List VU 9.1",
+     "url": "https://web.archive.org/web/20080211120852/http://www.entropiadirectory.com:80/wiki/VU_9.1"
+    }
+   ]
+  },
+  "9.1.1": {
+   "date": "2007-12-12",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.1.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-1/83813",
+     "date": "2007-12-12"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.1.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-1/83813"
+    }
+   ]
+  },
+  "9.1.2": {
+   "date": "2007-12-17",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.1.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-2/84327",
+     "date": "2007-12-17"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.1.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-2/84327"
+    }
+   ]
+  },
+  "9.1.3": {
+   "date": "2007-12-19",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.1.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-3/84592",
+     "date": "2007-12-19"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.1.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-3/84592"
+    }
+   ]
+  },
+  "9.1.4": {
+   "date": "2007-12-20",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.1.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-4/84698",
+     "date": "2007-12-20"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.1.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-4/84698"
+    }
+   ]
+  },
+  "9.1.5": {
+   "date": "2007-12-21",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.1.5 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-5/84863",
+     "date": "2007-12-21"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.1.5 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-5/84863"
+    }
+   ]
+  },
+  "9.1.6": {
+   "date": "2008-01-03",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.1.6 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-6/86071",
+     "date": "2008-01-03"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.1.6 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-1-6/86071"
+    }
+   ]
+  },
+  "9.1.X": {
+   "date": "2008-01-08",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Update 8 Jan 2008",
+     "url": "https://forum.entropiauniverse.com/t/86638",
+     "date": "2008-01-08"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Update 8 Jan 2008",
+     "url": "https://forum.entropiauniverse.com/t/86638"
+    }
+   ]
+  },
+  "9.2": {
+   "date": "2008-01-29",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.2 content list",
+     "url": "https://web.archive.org/web/20080201090733/http://www.entropiauniverse.com:80/en/rich/107185.html",
+     "date": "2008-02-01"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.2 preview",
+     "preview": true,
+     "url": "https://web.archive.org/web/20080117072202/http://account.entropiauniverse.com:80/pe/en/rich/107153.html",
+     "date": "2008-01-17"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-2/88783",
+     "date": "2008-01-28"
+    }
+   ]
+  },
+  "9.2.0.1": {
+   "date": "2008-01-29",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.2.0.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-2-0-1/88981",
+     "date": "2008-01-29"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.2.0.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-2-0-1/88981"
+    }
+   ]
+  },
+  "9.2.1": {
+   "date": "2008-02-06",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.2.1 notice",
+     "url": "https://web.archive.org/web/20080208133441/http://account.entropiauniverse.com:80/pe/en/rich/6717.html",
+     "date": "2008-02-08"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.2.1 notice",
+     "url": "https://web.archive.org/web/20080212084859/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2008-02-12"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.2.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-2-1/89807",
+     "date": "2008-02-06"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 9.2.1 notice",
+     "url": "https://web.archive.org/web/20080208133441/http://account.entropiauniverse.com:80/pe/en/rich/6717.html"
+    }
+   ]
+  },
+  "9.2.2": {
+   "date": "",
+   "sources": [
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — It fixed a number of issues, those that I noticed were:",
+     "url": "https://forum.entropiauniverse.com/t/89938/11",
+     "date": "2008-02-09"
+    }
+   ]
+  },
+  "9.2.3": {
+   "date": "2008-02-12",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.2.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-2-3/90451",
+     "date": "2008-02-12"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.2.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-2-3/90451"
+    }
+   ]
+  },
+  "9.2.4": {
+   "date": "2008-03-05",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.2.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-2-4/92534",
+     "date": "2008-03-05"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.2.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-2-4/92534"
+    }
+   ]
+  },
+  "9.2.5": {
+   "date": "2008-03-18",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini Update 18 Mar 2008",
+     "url": "https://forum.entropiauniverse.com/t/93975",
+     "date": "2008-03-18"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Mini Update 18 Mar 2008",
+     "url": "https://forum.entropiauniverse.com/t/93975"
+    }
+   ]
+  },
+  "9.3": {
+   "date": "2008-05-20",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.3 content list",
+     "url": "https://web.archive.org/web/20080526210921/http://www.entropiauniverse.com:80/en/rich/107398.html",
+     "date": "2008-05-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Content List Entropia Universe Version Update 9.3 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/content-list-entropia-universe-version-update-9-3/99088",
+     "date": "2008-05-20"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.3 Application (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-3-application/99074",
+     "date": "2008-05-20"
+    }
+   ]
+  },
+  "9.3.1": {
+   "date": "2008-05-22",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.3.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-3-1/99340",
+     "date": "2008-05-22"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Version Update 9.3.1 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/version-update-9-3-1/99340"
+    }
+   ]
+  },
+  "9.3.2": {
+   "date": "2008-06-10",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Version Update 9.3.2",
+     "url": "https://web.archive.org/web/20080621123634/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2008-06-10"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Version Update 9.3.2 10 June 2008",
+     "url": "https://forum.entropiauniverse.com/t/101033",
+     "date": "2008-06-10"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Version Update 9.3.2",
+     "url": "https://web.archive.org/web/20080621123634/http://www.entropiauniverse.com:80/en/rich/5377.html"
+    }
+   ]
+  },
+  "9.3.4": {
+   "date": "2008-08-26",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Additional Version Update Information",
+     "url": "https://web.archive.org/web/20080922223946/http://account.entropiauniverse.com:80/pe/en/rich/6717.html",
+     "date": "2008-08-29"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.3.4 content list",
+     "url": "https://web.archive.org/web/20080830023620/http://www.entropiauniverse.com:80/en/rich/107469.html",
+     "date": "2008-08-30"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.3.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-3-4/107380",
+     "date": "2008-08-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.3.4 Application (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-3-4-application/107444",
+     "date": "2008-08-27"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Additional Version Update Information 29 Aug 2008",
+     "url": "https://forum.entropiauniverse.com/t/107722",
+     "date": "2008-08-29"
+    }
+   ]
+  },
+  "9.3.5": {
+   "date": "2008-09-18",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Mini Update, 18 Sep 2008",
+     "url": "https://web.archive.org/web/20080922024640/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2008-09-18"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini Update 18 Sept 2008",
+     "url": "https://forum.entropiauniverse.com/t/109684",
+     "date": "2008-09-18"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Mini Update 18 Sept 2008",
+     "url": "https://forum.entropiauniverse.com/t/109684"
+    }
+   ]
+  },
+  "9.3.6": {
+   "date": "2008-10-27",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Mini-Update 9.3.6 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-mini-update-9-3-6/113021",
+     "date": "2008-10-27"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini-Update 9.3.6 28 Oct 2008",
+     "url": "https://forum.entropiauniverse.com/t/113073",
+     "date": "2008-10-28"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Mini-Update 9.3.6 28 Oct 2008",
+     "url": "https://forum.entropiauniverse.com/t/113073"
+    }
+   ]
+  },
+  "9.3.7": {
+   "date": "2008-12-02",
+   "sources": [
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Mini-Update 9.3.7 Content List",
+     "url": "https://forum.entropiauniverse.com/t/115712",
+     "date": "2008-12-02"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe Mini-Update 9.3.7 Content List",
+     "url": "https://forum.entropiauniverse.com/t/115712"
+    }
+   ]
+  },
+  "9.3.X": {
+   "date": "2008-07-01",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Mini-Update",
+     "url": "https://web.archive.org/web/20080702011524/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2008-07-01"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Mini-Update",
+     "url": "https://web.archive.org/web/20080814151837/http://www.entropiauniverse.com:80/en/rich/5377.html",
+     "date": "2008-07-11"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini-Update 1 July 2008",
+     "url": "https://forum.entropiauniverse.com/t/102944",
+     "date": "2008-07-01"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Mini-Update 11 July 2008",
+     "url": "https://forum.entropiauniverse.com/t/103796",
+     "date": "2008-07-11"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Mini-Update",
+     "url": "https://web.archive.org/web/20080702011524/http://www.entropiauniverse.com:80/en/rich/5377.html"
+    },
+    {
+     "label": "entropiauniverse.com — Mini-Update",
+     "url": "https://web.archive.org/web/20080814151837/http://www.entropiauniverse.com:80/en/rich/5377.html"
+    }
+   ]
+  },
+  "9.4": {
+   "date": "2009-02-16",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.4 notice",
+     "url": "https://web.archive.org/web/20090222011403/http://cl.entropiauniverse.com:80/news/pages/2009/02/09/0859/planet-calypso-version-up/index.xml",
+     "date": "2009-02-22"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.4 application",
+     "url": "https://web.archive.org/web/20090226194951/http://account.entropiauniverse.com:80/news/pages/2009/02/09/9443/index.xml",
+     "date": "2009-02-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.4 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-4/122083",
+     "date": "2009-02-13"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Entropia Universe Version 9.4 Content List (Temporary) (711)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-9-4-content-list-temporary/122334",
+     "date": "2009-02-16"
+    },
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.4 Content List (711)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-4-content-list/122406",
+     "date": "2009-02-16"
+    }
+   ]
+  },
+  "9.4.1": {
+   "date": "2009-02-18",
+   "sources": [
+    {
+     "tier": 4,
+     "label": "Entropia Universe forum — Entropia Universe Mini-Update 9.4.1 (system)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-mini-update-9-4-1/122617",
+     "date": "2009-02-18"
+    },
+    {
+     "tier": 5,
+     "label": "EntropiaPlanets — 02-19-2009 Characters corrected in Bank Deposit info",
+     "url": "https://web.archive.org/web/20140227054013/http://www.entropiaplanets.com:80/wiki/9.4.1",
+     "date": "2009-02-19"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "Entropia Universe forum — Entropia Universe Mini-Update 9.4.1 (system)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-mini-update-9-4-1/122617"
+    }
+   ]
+  },
+  "9.4.2": {
+   "date": "2009-03-04",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.4.2 notice",
+     "url": "https://web.archive.org/web/20091026075830/http://account.entropiauniverse.com:80/news/pages/2009/03/04/1233/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Entropia Universe Version Update 9.4.2 (news bot)",
+     "url": "https://forum.entropiauniverse.com/t/entropia-universe-version-update-9-4-2/123961",
+     "date": "2009-03-04"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 9.4.2 notice",
+     "url": "https://web.archive.org/web/20091026075830/http://account.entropiauniverse.com:80/news/pages/2009/03/04/1233/index.xml"
+    }
+   ]
+  },
+  "9.4.3": {
+   "date": "2009-03-18",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.4.3 notice",
+     "url": "https://web.archive.org/web/20090322084522/http://cl.entropiauniverse.com:80/support-faq/pages/2009/03/17/2809/index.xml",
+     "date": "2009-03-22"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.4.3 content list",
+     "url": "https://web.archive.org/web/20091026075550/http://account.entropiauniverse.com:80/support-faq/pages/2009/03/18/7710/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Typos corrected in the Terms of Use.",
+     "url": "https://forum.entropiauniverse.com/t/125017",
+     "date": "2009-03-18"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 9.4.3 content list",
+     "url": "https://web.archive.org/web/20091026075550/http://account.entropiauniverse.com:80/support-faq/pages/2009/03/18/7710/index.xml"
+    }
+   ]
+  },
+  "9.4.4": {
+   "date": "2009-04-08",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.4.4 notice",
+     "url": "https://web.archive.org/web/20090411093631/http://cl.entropiauniverse.com:80/support-faq/pages/2009/04/07/8563/index.xml",
+     "date": "2009-04-11"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — VU 9.4.4 content list",
+     "url": "https://web.archive.org/web/20091026082421/http://account.entropiauniverse.com:80/support-faq/pages/2009/03/30/8864/index.xml",
+     "date": "2009-10-26"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Internal improvements in withdrawal process",
+     "url": "https://forum.entropiauniverse.com/t/126445",
+     "date": "2009-04-08"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — VU 9.4.4 content list",
+     "url": "https://web.archive.org/web/20091026082421/http://account.entropiauniverse.com:80/support-faq/pages/2009/03/30/8864/index.xml"
+    }
+   ]
+  },
+  "9.4.X": {
+   "date": "2009-05-14",
+   "sources": [
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026091108/http://account.entropiauniverse.com:80/support-faq/pages/2009/05/14/5733/index.xml",
+     "date": "2009-05-14"
+    },
+    {
+     "tier": 1,
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026091118/http://account.entropiauniverse.com:80/support-faq/pages/2009/06/12/3586/index.xml",
+     "date": "2009-06-12"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Rocket launchers have today been fine-tuned to reduce lag.",
+     "url": "https://forum.entropiauniverse.com/t/129967",
+     "date": "2009-05-28"
+    },
+    {
+     "tier": 3,
+     "label": "Entropia Universe forum — Today's small update corrected:",
+     "url": "https://forum.entropiauniverse.com/t/131408",
+     "date": "2009-06-17"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026091108/http://account.entropiauniverse.com:80/support-faq/pages/2009/05/14/5733/index.xml"
+    },
+    {
+     "label": "Entropia Universe forum — Rocket launchers have today been fine-tuned to reduce lag.",
+     "url": "https://forum.entropiauniverse.com/t/129967"
+    },
+    {
+     "label": "entropiauniverse.com — Entropia Universe Mini-Update",
+     "url": "https://web.archive.org/web/20091026091118/http://account.entropiauniverse.com:80/support-faq/pages/2009/06/12/3586/index.xml"
+    },
+    {
+     "label": "Entropia Universe forum — Today's small update corrected:",
+     "url": "https://forum.entropiauniverse.com/t/131408"
+    }
+   ]
+  },
+  "August 2002 patch": {
+   "date": "2002-08-09",
+   "sources": [
+    {
+     "tier": 2,
+     "label": "project-entropia.com — Solutions to problems and compensation",
+     "url": "https://web.archive.org/web/20020821152514/http://www.project-entropia.com:80/forum/viewthread.asp?threadID=4822&topicID=45",
+     "date": "2002-08-09"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — Solutions to problems and compensation",
+     "url": "https://web.archive.org/web/20020821152514/http://www.project-entropia.com:80/forum/viewthread.asp?threadID=4822&topicID=45"
+    }
+   ]
+  },
+  "COT Patch 2": {
+   "date": "2002-06-26",
+   "sources": [
+    {
+     "tier": 2,
+     "label": "project-entropia.com — PROJECT ENTROPIA COMMERCIAL OPEN TRIAL: PATCH 2",
+     "url": "https://web.archive.org/web/20020628132435/http://www.project-entropia.com:80/forum/viewthread.asp?threadID=4113&topicID=45",
+     "date": "2002-06-26"
+    }
+   ],
+   "transcribed_from": [
+    {
+     "label": "project-entropia.com — PROJECT ENTROPIA COMMERCIAL OPEN TRIAL: PATCH 2",
+     "url": "https://web.archive.org/web/20020628132435/http://www.project-entropia.com:80/forum/viewthread.asp?threadID=4113&topicID=45"
+    }
+   ]
+  }
+ }
+}
