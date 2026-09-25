@@ -1481,6 +1481,12 @@
     },
     {
      "tier": 4,
+     "label": "RPGDot (RPGWatch mirror) — news page",
+     "url": "https://rpgdot.rpgwatch.com/localhost/rpgdot.rpgwatch.com/httpdocs/index8b52.html?hsaction=10077&newsid=14672",
+     "from_sheet": true
+    },
+    {
+     "tier": 4,
      "label": "perc.info — VU 4.2 listing (fan site, 2004)",
      "url": "https://web.archive.org/web/20041026134810/http://www.perc.info:80/index.asp?page=64"
     },
@@ -1496,6 +1502,12 @@
      "label": "Entropia Universe forum — The Golden VU 4.2 Listing (GeeKman, 2005 repost)",
      "url": "https://forum.entropiauniverse.com/t/the-golden-vu-4-2-listing/144",
      "date": "2005-01-29"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — VU search results for \"4.2\"",
+     "url": "https://www.entropiamuseum.com/vu/search/4.2/page/2",
+     "from_sheet": true
     },
     {
      "tier": 5,
@@ -1545,7 +1557,7 @@
     },
     {
      "tier": 5,
-     "label": "Entropia Museum — VU search results for 4.3",
+     "label": "Entropia Museum — VU search results for \"4.3\"",
      "url": "https://www.entropiamuseum.com/vu/search/4.3/page/2",
      "from_sheet": true
     },
@@ -1600,7 +1612,7 @@
     },
     {
      "tier": 5,
-     "label": "Entropia Museum — VU search results for 4.5",
+     "label": "Entropia Museum — VU search results for \"4.5\"",
      "url": "https://www.entropiamuseum.com/vu/search/4.5",
      "from_sheet": true
     },
@@ -1637,6 +1649,12 @@
   "5.1": {
    "date": "2003-06-13",
    "sources": [
+    {
+     "tier": 1,
+     "label": "project-entropia.com — news page",
+     "url": "https://web.archive.org/web/20031011191311/http://www.project-entropia.com/news/main.jsp",
+     "from_sheet": true
+    },
     {
      "tier": 4,
      "label": "computergames.ro — client v5.1 download page, notes in its description",
@@ -2121,6 +2139,12 @@
      "label": "Entropia Universe forum — A Brief History of Cities, TPs and Locations",
      "url": "https://forum.entropiauniverse.com/t/a-brief-history-of-cities-tps-and-locations/103895",
      "from_sheet": true
+    },
+    {
+     "tier": 5,
+     "label": "MobyGames — patch history",
+     "url": "https://www.mobygames.com/game/13447/entropia-universe/patches/",
+     "from_sheet": true
     }
    ]
   },
@@ -2452,6 +2476,18 @@
      "label": "Entropia Universe forum — VU 7.3 Listing (Abee)",
      "url": "https://forum.entropiauniverse.com/t/vu-7-3-listing/1783",
      "date": "2005-05-04"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Universe forum — A Brief History of Cities, TPs and Locations",
+     "url": "https://forum.entropiauniverse.com/t/a-brief-history-of-cities-tps-and-locations/103895",
+     "from_sheet": true
+    },
+    {
+     "tier": 5,
+     "label": "MobyGames — patch history",
+     "url": "https://www.mobygames.com/game/13447/entropia-universe/patches/",
+     "from_sheet": true
     }
    ]
   },
@@ -2475,6 +2511,12 @@
      "label": "Entropia Universe forum — VU 7.4 Listing (MindBuster)",
      "url": "https://forum.entropiauniverse.com/t/vu-7-4-listing/2295",
      "date": "2005-05-24"
+    },
+    {
+     "tier": 4,
+     "label": "RPGDot (RPGWatch mirror) — news page",
+     "url": "https://rpgdot.rpgwatch.com/localhost/rpgdot.rpgwatch.com/httpdocs/index9363-2.html?hsaction=10077&newsid=38951",
+     "from_sheet": true
     }
    ]
   },
@@ -2572,6 +2614,12 @@
      "tier": 4,
      "label": "RPGDot (RPGWatch mirror) — news page",
      "url": "https://rpgdot.rpgwatch.com/localhost/rpgdot.rpgwatch.com/httpdocs/indexd7fc.html?hsaction=10077&newsid=40050",
+     "from_sheet": true
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — VU search results for \"7.5.1\"",
+     "url": "https://www.entropiamuseum.com/vu/search/7.5.1",
      "from_sheet": true
     },
     {
@@ -2676,6 +2724,12 @@
      "label": "EntropiaPlanets — An update has been applied to Project Entropia.",
      "url": "https://web.archive.org/web/20190717024624/http://www.entropiaplanets.com/threads/vu-7-6-3-applied-28-sep-2005.12068/",
      "date": "2005-09-28"
+    },
+    {
+     "tier": 4,
+     "label": "RPGDot (RPGWatch mirror) — news page",
+     "url": "https://rpgdot.rpgwatch.com/localhost/rpgdot.rpgwatch.com/httpdocs/indexfd68.html?hsaction=10077&newsid=42295",
+     "from_sheet": true
     }
    ]
   },
@@ -3024,6 +3078,12 @@
      "label": "Entropia Universe forum — Version Update 8.12.2 (news bot)",
      "url": "https://forum.entropiauniverse.com/t/version-update-8-12-2/65782",
      "date": "2007-06-07"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — VU search results for \"8.12\"",
+     "url": "https://www.entropiamuseum.com/vu/search/8.12",
+     "from_sheet": true
     },
     {
      "tier": 5,
@@ -3511,6 +3571,12 @@
     },
     {
      "tier": 5,
+     "label": "Entropia Museum — VU search results for \"8.7\"",
+     "url": "https://www.entropiamuseum.com/vu/search/8.7",
+     "from_sheet": true
+    },
+    {
+     "tier": 5,
      "label": "Entropia Museum — Version Updates archive",
      "url": "https://www.entropiamuseum.com/vu/"
     },
@@ -3828,6 +3894,12 @@
      "label": "Entropia Universe forum — Version Update 9.0.2 (news bot)",
      "url": "https://forum.entropiauniverse.com/t/version-update-9-0-2/78258",
      "date": "2007-10-16"
+    },
+    {
+     "tier": 5,
+     "label": "Entropia Museum — VU search results for \"9.0.2\"",
+     "url": "https://www.entropiamuseum.com/vu/search/9.0.2",
+     "from_sheet": true
     },
     {
      "tier": 5,
