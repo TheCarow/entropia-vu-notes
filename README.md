@@ -71,7 +71,9 @@ then older sources first.
    entries republish forum threads.
 
 Every source must have a `url`. A source without one is not shown, because a name with no page is
-not something a reader can check.
+not something a reader can check. **`build.py` refuses to build if an entry has notes but no linked
+source.** A source that only mentions a version, such as a download page or a news item naming it,
+carries `"names_only": true`. It is listed, but it does not count as holding the notes.
 
 ## `sources.json`
 

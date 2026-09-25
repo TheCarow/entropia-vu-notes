@@ -135,7 +135,7 @@ def holds_notes(source):
     """Whether a source carries the notes themselves: a reachable page that is not a preview, a wiki or
     archive compilation, or a player's observations."""
     url = source.get("url", "")
-    if not url or source.get("preview"):
+    if not url or source.get("preview") or source.get("names_only"):
         return False
     if re.search(r"entropiamuseum|entropiadirectory|pe-wiki", url):
         return False
@@ -161,6 +161,12 @@ def main():
         notes[version_of(heading)] = body.strip("\n")
     data = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))["entries"]
     versions = sorted(set(notes) | set(data), key=sort_key)
+
+    unsourced = [v for v in versions if notes.get(v, "").strip()
+                 and not any(s.get("url") for s in data.get(v, {}).get("sources", []))]
+    if unsourced:
+        raise SystemExit("Not built: these entries have notes but no linked source in sources.json: %s"
+                         % ", ".join(unsourced))
 
     parts = []
     for version in versions:
